@@ -1,2 +1,0 @@
-# telegram-autoreg
-Telegram Autoreg
